@@ -1,0 +1,52 @@
+.main-question {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+}
+
+.hr-home {
+    height: 5px;
+    max-width: 10%;
+    color: #2F3708;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.home-section {
+    background-image: url("https://cdn.pixabay.com/photo/2013/04/02/13/06/beach-99388_960_720.jpg");
+    background-size: cover;
+}
+
+.logos {
+    width: 70px;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.cards {
+    padding-top: 10%;
+    color: white;
+    background: none;
+}
+
+.card-title {
+    padding-top: 2%;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.card-text {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
