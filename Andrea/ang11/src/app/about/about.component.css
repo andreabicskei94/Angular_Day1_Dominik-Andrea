@@ -1,0 +1,31 @@
+.about-section {
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/05/02/40/shellfish-3062011_960_720.jpg);
+    background-size: cover;
+    max-height: 100%;
+}
+
+.caption {
+    color: black;
+    margin-left: 80px;
+}
+
+.destination-img {
+    margin-top: 50px;
+    display: flex;
+    max-width: 400px;
+    height: 300px;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+
+.thumbnail {
+    width: 30rem;
+}
+
+.caption-text {
+    position: relative;
+    margin-top: -50px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
