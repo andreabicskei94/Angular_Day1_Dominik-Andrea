@@ -1,0 +1,17 @@
+.footer {
+    height: 300px;
+}
+
+.icons {
+    padding-top: 2%;
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+.fa-brands {
+    padding: 0.8rem;
+    border: 1px solid white;
+    border-radius: 5%;
+    color: white;
+}
